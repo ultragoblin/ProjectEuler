@@ -36,8 +36,8 @@ second = {
 hundred_c = 7
 and_c = 3
 
-count = 11
-for i in range(1,1000):
+count = 11  # one thousand
+for i in range(1, 1000):
     if i < 20:
         count += first[i]
     elif i < 100:

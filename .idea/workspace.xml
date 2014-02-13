@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827130ae-28c2-4621-a67b-6c978f222adc" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/PrpjectEuler.iml" afterPath="$PROJECT_DIR$/.idea/ProjectEuler.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p17.py" afterPath="$PROJECT_DIR$/p17.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectEuler.iws" />
@@ -20,8 +16,8 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ProjectEuler$p17.coverage" NAME="p17 Coverage Results" MODIFIED="1392286034449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ProjectEuler$p14.coverage" NAME="p14 Coverage Results" MODIFIED="1391673520247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$p15.coverage" NAME="p15 Coverage Results" MODIFIED="1392284915594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectEuler$p14.coverage" NAME="p14 Coverage Results" MODIFIED="1391673520247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$p18.coverage" NAME="p18 Coverage Results" MODIFIED="1392286087665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -48,25 +44,25 @@
       <file leaf-file-name="p15.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/p15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="495">
+            <state line="14" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p17.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="p17.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/p17.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="8" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="945">
+            <state line="37" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.33084112" vertical-offset="378" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p18.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="p18.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/p18.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="14" selection-start="90" selection-end="90" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="535">
+            <state line="5" column="14" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -101,9 +97,9 @@
       <list>
         <option value="$PROJECT_DIR$/p14.py" />
         <option value="$PROJECT_DIR$/p15.py" />
-        <option value="$PROJECT_DIR$/p17.py" />
         <option value="$PROJECT_DIR$/p18_triangle" />
         <option value="$PROJECT_DIR$/p18.py" />
+        <option value="$PROJECT_DIR$/p17.py" />
       </list>
     </option>
   </component>
@@ -163,11 +159,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="80" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="47" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="43" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="85" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="469" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="397" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="50" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="47" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -353,9 +365,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,6 +386,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -470,12 +482,12 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6706444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6706444" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30906922" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="0" width="1280" height="511" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -555,20 +567,6 @@
         <state line="25" column="22" selection-start="973" selection-end="973" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="8" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python3.2/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="302" column="0" selection-start="9861" selection-end="9861" vertical-scroll-proportion="0.28623188" vertical-offset="4372" max-vertical-offset="16605" />
@@ -579,16 +577,30 @@
         <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="-1.8367347" vertical-offset="17130" max-vertical-offset="22080" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p18.py">
+    <entry file="file://$PROJECT_DIR$/p18_triangle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="14" selection-start="90" selection-end="90" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="535">
+        <state line="14" column="44" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p18_triangle">
+    <entry file="file://$PROJECT_DIR$/p15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+        <state line="14" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.33084112" vertical-offset="378" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
