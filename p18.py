@@ -3,8 +3,7 @@ result = 0
 file = open('p18_triangle', 'r')
 triangle = []
 for row in file:
-	triangle.append([])
-	triangle[len(triangle) - 1] = row.strip().split(' ')
+	triangle.append(row.strip().split(' '))
 	print(triangle[len(triangle) - 1])
 
 
